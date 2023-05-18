@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently in my pre-final year of my Bachelors. I am a machine learning Beginner. 
+I am a machine learning Beginner. I am currently in pre-final year of my Bachelors.  
 
 <!--
 **sneha1012/sneha1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
