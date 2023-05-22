@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a machine learning Enthusiast and a MERN stack developer. Currently in pre-final year of my bachelors in Computer Science and Engineering
+I am a ### Machine learning Enthusiast and a ### MERN stack developer. 
+
+Currently in pre-final year of my bachelors in Computer Science and Engineering
 
 <!--
 **sneha1012/sneha1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
