@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Machine learning** Enthusiast and a **MERN stack developer**. 
+I am **Deep learning** Researcher and a **MERN stack developer**. 
 
 Currently an Final Year undergraduate pursuing Computer Science and Engineering from [SRM Institute of Science and Technology](https://www.srmist.edu.in), India.
 
