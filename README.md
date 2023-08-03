@@ -6,6 +6,7 @@ Currently an Final Year undergraduate pursuing Computer Science and Engineering 
 
 ### Reach Me At:
 Email :envelope_with_arrow: [snehamaurya1012@gmail.com](https://mail.google.com/mail/u/0/?pli=1#inbox)
+CV :page_facing_up: [resume](https://drive.google.com/file/d/1hv5qdSwFMLKWrWBJI9TfjxcvANM4_UAL/view)
 
 <!--*sneha1012/sneha1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
