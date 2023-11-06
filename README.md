@@ -1,4 +1,4 @@
-# Hello World! I'm Sneha Maurya 👩‍💻 🌐
+# Hi! I'm Sneha Maurya 👩‍💻 🌐
 
 I'm an avid Deep Learning Researcher and a MERN stack developer, currently navigating the final year of my Computer Science and Engineering voyage at SRM Institute of Science and Technology, India. 🎓
 
