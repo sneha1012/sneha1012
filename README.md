@@ -14,7 +14,7 @@ My academic journey is peppered with cutting-edge research stints at Instituitio
 Whether it's a collaborative project, research discussion, or just a friendly chat about the latest in tech, feel free to reach out!
 
 - 📩 Email: snehamaurya1012@gmail.com
-- 📄 CV: [Resume](link-to-your-resume)
+- 📄 CV: [Resume](https://drive.google.com/file/d/1KnNy4x2mhuoHJHXaiZ9VsDWu7lDySUfW/view)
 - 🐱 GitHub: [@sneha1012](https://github.com/sneha1012)
 - 🔗 LinkedIn: [sneha1012](https://linkedin.com/in/sneha101202)
 - 💼 Portfolio: [sneha1012.github.io](https://sneha1012.github.io)
