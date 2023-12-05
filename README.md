@@ -5,7 +5,7 @@ I'm an avid Deep Learning Researcher and a MERN stack developer, currently navig
 ## What's Cooking? 🧠 🍳
 
 My academic journey is peppered with cutting-edge research stints at Instituitions:
-- **National University of Singapore** (NUS): As a Research Intern, I'm pushing the boundaries of Visual Question Answering methods, especially for intricate 3D data. 🤖
+- **National University of Singapore** (NUS): As a Research Intern, I'm pushing the boundaries of contextual suggestion methods, especially for intricate 3D data. 🤖
 - **Carnegie Mellon University**: Here, I delve into the complexities of cryoelectron tomography, developing innovative alignment methods for biological imaging. 🔬
 - **IIT Kharagpur**: I am working with dynamic Knowledge graphs for ranking/ sequencing of documents using the concept of prerequisites.
   
