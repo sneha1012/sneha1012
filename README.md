@@ -1,13 +1,16 @@
 # Hi! I'm Sneha Maurya 👩‍💻 🌐
 
-I'm an avid Deep Learning Researcher and a MERN stack developer, currently navigating the final year of my Computer Science and Engineering voyage at SRM Institute of Science and Technology, India. 🎓
+Welcome to my GitHub profile! I am Sneha Maurya, currently embarking on a Master's journey in Data Science at Columbia University. My professional interests encompass deep dives into Data Science, the intricacies of Large Language Models (LLMs), Machine Learning, and Software Development.
 
-## What's Cooking? 🧠 🍳
+## Professional Experience
+Data Science Intern at Metropolis Healthcare, India
 
-My academic journey is peppered with cutting-edge research stints at Instituitions:
-- **National University of Singapore** (NUS): As a Research Intern, I'm pushing the boundaries of contextual suggestion methods, especially for intricate 3D data. 🤖
-- **Carnegie Mellon University**: Here, I delve into the complexities of cryoelectron tomography, developing innovative alignment methods for biological imaging. 🔬
-- **IIT Kharagpur**: I am working with dynamic Knowledge graphs for ranking/ sequencing of documents using the concept of prerequisites.
+Collaborated with the marketing team to create dynamic dashboards.
+Developed a text-to-video system for efficient diagnostic report summaries, enhancing user engagement and accessibility.
+Research Experience
+
+Conducted extensive research at prestigious institutions including ## National University of Singapore, ## IIT Kharagpur, and ## Carnegie Mellon University.
+Explored diverse fields such as 3D vision and Natural Language Processing (NLP), utilizing frameworks like PyTorch and TensorFlow.
   
 ## Let's Connect! 🌐
 
