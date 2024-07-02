@@ -7,7 +7,7 @@ Data Science Intern at Metropolis Healthcare, India
 
 Collaborated with the marketing team to create dynamic dashboards.
 Developed a text-to-video system for efficient diagnostic report summaries, enhancing user engagement and accessibility.
-Research Experience
+
 
 Conducted extensive research at prestigious institutions including National University of Singapore, IIT Kharagpur, and Carnegie Mellon University.
 Explored diverse fields such as 3D vision and Natural Language Processing (NLP), cryoelectron tomography, document sequencing utilizing frameworks like PyTorch and TensorFlow.
