@@ -1,6 +1,6 @@
-# Hi! I'm Sneha Maurya 👩‍💻 🌐
+# Hi! I'm Sneha Maurya (She/her) 👩‍💻 🌐
 
-Welcome to my GitHub profile! I am Sneha Maurya, currently embarking on a Master's journey in Data Science at Columbia University. My professional interests encompass deep dives into Data Science, the intricacies of Large Language Models (LLMs), Machine Learning, and Software Development.
+Welcome to my GitHub profile! I am Sneha Maurya, currently embarking on a Master's journey in Data Science at Columbia University. My professional interests encompass Data Science, the intricacies of Large Language Models (LLMs), Machine Learning, Deep Learning and Software Development.
 
 # Work Experience 🖥️ :briefcase:
 - :bookmark: Data Science Intern @Metropolis Healthacre
