@@ -1,5 +1,3 @@
-# Hi! I'm Sneha Maurya (She/her) 👩‍💻 
-
 Data Science graduate student at Columbia University, Expected to graduate in decemeber 2025. My interests span Data Science, Machine Learning, Deep Learning, and Large Language Models (LLMs). Recently, I have been diving deeper into reinforcement learning, while also working on building and implementing research papers on LLMs to gain a stronger understanding of their inner workings and practical applications.
 
 # Work Experience 🖥️ :briefcase:
@@ -30,12 +28,11 @@ Data Science graduate student at Columbia University, Expected to graduate in de
   ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
   
-## Let's Connect! You can reach out to me:
+## You can reach me:
 
-- 📩 Email: snehamaurya1012@gmail.com | sm5755@columbia.edu
-- 🐱 GitHub: [@sneha1012](https://github.com/sneha1012)
-- 🔗 LinkedIn: [sneha1012](https://linkedin.com/in/sneha101202)
-- 💼 Portfolio: [sneha1012.github.io](https://sneha1012.github.io)
+- 📩 snehamaurya1012@gmail.com | sm5755@columbia.edu
+- 🔗 [sneha1012](https://linkedin.com/in/sneha101202)
+- 💼 [sneha1012.github.io](https://sneha1012.github.io)
 
 ---
 
