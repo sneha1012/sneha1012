@@ -30,9 +30,9 @@ Data Science graduate student at Columbia University, Expected to graduate in de
   
 ## You can reach me:
 
-- 📩 snehamaurya1012@gmail.com | sm5755@columbia.edu
-- 🔗 [sneha1012](https://linkedin.com/in/sneha101202)
-- 💼 [sneha1012.github.io](https://sneha1012.github.io)
+- ✉️ [snehamaurya1012@gmail.com](mailto:snehamaurya1012@gmail.com) | [sm5755@columbia.edu](mailto:sm5755@columbia.edu)
+- 🔗 [LinkedIn: sneha1012](https://linkedin.com/in/sneha101202)
+- 🌐 [Personal Website](https://sneha1012.github.io)
 
 ---
 
