@@ -1,4 +1,4 @@
-Data Science graduate student at Columbia University, Expected to graduate in decemeber 2025. My interests span Data Science, Machine Learning, Deep Learning, and Large Language Models (LLMs). Recently, I have been diving deeper into reinforcement learning, while also working on building and implementing research papers on LLMs to gain a stronger understanding of their inner workings and practical applications.
+Data Science graduate student at Columbia University, Expected to graduate in decemeber 2025. My interests span Data Science, Machine Learning, Deep Learning, and Large Language Models (LLMs). 
 
 # Work Experience 🖥️ :briefcase:
 - :atom: Graduate Teaching Assistant @Columbia Business School
