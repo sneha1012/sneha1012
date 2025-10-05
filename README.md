@@ -1,6 +1,8 @@
-Data Science graduate student at Columbia University, Expected to graduate in decemeber 2025. My interests span Data Science, Machine Learning, Deep Learning, and Large Language Models (LLMs). 
+Data Science graduate student at Columbia University, Expected to graduate in decemeber 2025. I am working to optimise the agentic frameworks.
 
 # Work Experience 🖥️ :briefcase:
+- 📜 AI Researcher @IBM Research
+- :computer: Data Science intern @NXP Semiconductors 
 - 📜 Graduate Research Assistant @Columbia Business School
 - :atom: Teaching Assistant II @Columbia Business School
 - :bookmark: Data Science Intern @Metropolis Healthacre
