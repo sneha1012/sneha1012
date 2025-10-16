@@ -1,4 +1,4 @@
-Data Science graduate student at Columbia University, Expected to graduate in decemeber 2025. I am working to optimise the agentic frameworks.
+Researching and engineering high-performance ML systems with a focus on LLM evaluation, serving efficiency, and data reliability.
 
 # Work Experience 🖥️ :briefcase:
 - 📜 AI Researcher @IBM Research
