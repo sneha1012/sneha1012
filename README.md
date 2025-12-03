@@ -1,4 +1,8 @@
-Researching and engineering high-performance ML systems with a focus on LLM evaluation, serving efficiency, and data reliability.
+I’m fascinated by how intelligence arranges itself, in codebases, infrastructure, institutions, and cities. I see AI not as a collection of models, but as a new cognitive layer we’re gradually wiring into the world: a layer that can read, reason, and act across the artifacts we’ve already built. My long-term interest is in making that layer aligned with human judgment, grounded in reality, and capable of handling the messy, high-stakes decisions that actually move systems: code changes, operational failures, regulatory choices, and resource allocation.
+
+In practice, that has led me to work on AI for code, agentic systems, and knowledge-centric AI. I’ve built next-action prediction for code generation at IBM, GenAI-assisted analytics over semiconductor tool logs at NXP, and multimodal RAG systems that can extract structure from 300+ page reports as part of my MS in Data Science at Columbia. Across these, I care about a few through-lines: observability over LLM behavior, retrieval and knowledge graphs that make organizational memory usable, and agents that treat engineers and analysts as collaborators rather than users to be automated away. 
+
+If you’re building towards AI that is architecturally aware, production-grade, and tightly coupled to real workflows, I’m very interested in what you’re experimenting with and would love to connect!
 
 # Work Experience 🖥️ :briefcase:
 - 📜 AI Researcher @IBM Research
