@@ -1,4 +1,4 @@
- I've built AI for code (IBM), GenAI analytics over hardware logs (NXP), and multimodal RAG systems at Columbia. What ties it together: making AI that's grounded in real data, observable in production, and useful to engineers, not just impressive in demos. Always happy to connect if you're working on similar problems.
+I work in everything LLMs. LLMs Post-Training, Evaluation, Benchmarking, Observability. I would love to get in touch with you if you are hiring in the space or just wanna build something cool together (can be really fun).
 
 # Work Experience 🖥️ :briefcase:
 - 📜 AI Researcher @IBM Research
