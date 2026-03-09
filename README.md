@@ -1,4 +1,4 @@
-I work in everything LLMs. LLMs Post-Training, Evaluation, Benchmarking, Observability. I would love to get in touch with you if you are hiring in the space or just wanna build something cool together (can be really fun).
+I work in everything LLMs and agent orchestration. LLMs Post-Training, Evaluation, Benchmarking, Observability. I would love to get in touch with you if you are hiring in the space or just wanna build something cool together (can be really fun). Honestly I wanna do something creative and fun and just keep learning and implementng my way into this new world.
 
 # Work Experience 🖥️ :briefcase:
 - 📜 AI Researcher @IBM Research
